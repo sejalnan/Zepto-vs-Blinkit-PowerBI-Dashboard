@@ -24,18 +24,13 @@ The purpose of this dashboard is to perform a **comparative analysis** between Z
 * 📂 **Power Query** – Data cleaning and transformation
 * 🧠 **DAX** – KPI calculations (Sum of Amount, Avg Delivery Time, Avg Rating)
 * 🧩 **Data Modeling** – Relationships across brand, city, product, and time
-* 📁 **Files Used**
-
-  * `.pbix` – Power BI dashboard file
-  * `.csv / .xlsx` – Source dataset
-  * `.jpg` – Dashboard snapshot for GitHub
 
 ---
 
 ## 📊 Dataset Description
 
 **Dataset Name:** Zepto vs Blinkit – Power BI Dataset
-**File Used:** `Zepto vs Blinkit For Power Bi.xlsx`
+**File Used:** https://docs.google.com/spreadsheets/d/1hWQ8mDPk8z4px3nE6uFucnDq8nPtYvhW/edit?usp=drive_link&ouid=112502353795078161941&rtpof=true&sd=true
 
 **Dataset Overview:**
 This dataset contains transactional and operational data used to compare the performance of **Zepto** and **Blinkit** across multiple business dimensions such as sales, delivery efficiency, customer ratings, product categories, and payment preferences.
